@@ -1,4 +1,4 @@
-# A Quick Example of Using GraphQL with MongoDB
+# Quick Example of Using GraphQL with MongoDB :rocket:
 
 ## Intro
 
